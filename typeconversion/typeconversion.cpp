@@ -16,7 +16,9 @@ int main() {
     double score = correct/(double)questions * 100;
 
     std::cout << score << "%";
+    std::cout << "insira um valor";
 
+    std::cin int << "a";
 
     return 0;
 }
